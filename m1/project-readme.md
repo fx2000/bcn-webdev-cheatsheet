@@ -41,6 +41,6 @@ URls for the project repo and deploy
 [Link Deploy](http://github.com)
 
 
-### Slides
-URls for the project presentation (slides)
-[Link Slides.com](http://slides.com)
+### Spoonacular
+[API Description](https://spoonacular.com/application/frontend/downloads/spoonacular-api-slides.pdf)
+[API Documentation](https://spoonacular.com/food-api/docs)
